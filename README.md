@@ -24,7 +24,7 @@ freelancer-earnings-ml/
 │   ├── eda.py
 │   ├── model_training.py
 │   └── evaluation.py
-├── reports/            # Berichte & Präsentationen
+├── reports/            # Berichte
 ├── .gitignore          # Dateien, die nicht ins Repository gehören
 ├── README.md           # Projektbeschreibung
 └── requirements.txt    # Abhängigkeiten für das Projekt
